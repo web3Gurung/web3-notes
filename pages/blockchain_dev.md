@@ -1,0 +1,6 @@
+- Created on: 6 Jun 2022
+- Last Updated: 6 Jun 2022
+- Read [this](https://tr3y.io/articles/crypto/how2bloccchain.html) article by [Trey Del Bonis](https://tr3y.io/)
+	- understood some sutff, didn't understand many stuff
+	-
+- [How to become a blockchain developer](https://www.youtube.com/watch?v=e1N4aWIJMN0) by Patrick Collins

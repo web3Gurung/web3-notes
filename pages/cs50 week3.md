@@ -1,0 +1,3 @@
+- Algorithms - are compared with the running time they take
+- We dont care about small details, so n/2 = n (for O(n))
+- To take the lower bound of the calculation of an algorithm, we use the Omega.

@@ -1,3 +1,4 @@
+- tags: #cs50
 - ## Week 0 - [link](https://youtu.be/YoXxevp1WRQ)
 	- problem solving than programming
 	- What is Computer Science?

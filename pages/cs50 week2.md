@@ -1,0 +1,14 @@
+- `clang` is a compiler for .c files
+- we can add many options in the command line itself!
+- `clang -o hello hello.c -lcs50` - output is hello, compiling hello.c, `-l` tells clang to incorporate machine lang from cs50's lib.
+- process of turning human readable code to machine code
+	- preprocessing (source code)
+	- compiling (assembly code)
+	- assembling (machine code) - in zeroes and one
+	- linking
+- Learning about using `debug50` which is a gdb debugger.
+- RAM is faster than a long term disk memory. It's volatile in nature - you lose the work if it switches off.
+- A string ends with a null character `\0`
+- There can be bits of data even after the null character.
+- If you're using `strlen`, use it only once and that too in the initialisation section of the loop. Not the test expression of the loop.
+- plaintext -> cipher -> ciphertext

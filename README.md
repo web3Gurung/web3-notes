@@ -24,3 +24,14 @@ Learning now -
 -
 ## Pages
 - [[blockchain dev]]
+-
+- ### Reads
+- No sleep reads - [here](https://nosleepjon.notion.site/nosleepjon/NoSleep-Reads-3aa6f6da99a54b3097802bd1bf93cd5b)
+- Worksing in web3 handbook - [link](https://www.smsunarto.com/web3)
+- The web3 Library - [link](https://curiousaddys.notion.site/curiousaddys/2935b6c3a1e249fd876ce3f318355d92?v=b46dd3524e8a4ea9873f364800a0db38)
+- Working in web3 notion - [link](https://clavisxyz.notion.site/Working-In-Web3-7c4d88bc881f46e48d5e866de95715f0)
+-
+- ### Accelerators
+- For DAOs - [SeedClub](https://twitter.com/seedclubhq), [website](https://accelerator.seedclub.xyz/)
+-
+-

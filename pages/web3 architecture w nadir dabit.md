@@ -1,0 +1,23 @@
+- ### Nadir's history
+	- worked 10 years as a developer
+	- joined web3 around April 2021
+	- front end - mobile app dev - cloud computing for AWS
+	- web3 gave him the excitement to learn something new
+	- the positive stuff which is being built in web3 excites Nadir
+	- web3 culture is fun!
+- ### Worst experience in web3
+	- people hardcoding their private keys/seed phrase somewhere during development
+- ### Why believe in web3?
+	- New ways to build applications
+	- Won't replace the web2 stuff, just complements more on top on the current infrastructure with decentralisation
+	- open source is empowering - sharing and improving of ideas
+	- polygon makes trade around decentralisation, but has lower transaction costs
+	- making public data and infrasturcture accessible
+- ### How difficult is it to get into web3?
+	- easier to break into than before
+	- where you put your attention and time - is dependable
+	- depends on low level programming/front end/smart contract dev
+	- frontend is easier to break into - JS is used in mobile, web
+	-
+- Dont have to wait for opportunities in a DAO, just start
+	-
